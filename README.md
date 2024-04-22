@@ -6,6 +6,11 @@ This Python-based speech recognition machine learning project aims to recognize 
 
 This speech recognition machine learning project, implemented in Python, presents a comprehensive exploration of the comparative advantages of supervised and unsupervised learning in recognizing spoken numbers. This dual approach opens up new avenues for businesses to enhance accuracy, adaptability, and efficiency in various applications, ranging from customer support to financial transactions, ultimately contributing to a more intelligent and responsive business ecosystem.
 
+
+Outcome: 
+
+The model was successful and completed the task with a 97% accuracy rate.
+
 Key Features:
 
 Python Implementation: The project is developed using Python, ensuring flexibility and ease of integration into existing business systems.
